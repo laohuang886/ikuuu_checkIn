@@ -1,0 +1,8 @@
+# 本地抓取的登录 Cookie 属于敏感信息，绝不要提交到仓库
+local_cookie.txt
+*.cookie
+.env
+.token.tmp
+.repo.tmp
+__pycache__/
+.venv/
